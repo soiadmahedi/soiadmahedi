@@ -33,9 +33,9 @@
 ---
 
 ## 🌐 সোশ্যাল লিংক ও যোগাযোগ:
-- 🌍 Website: [soiadmahedi.com](https://soiadmahedi.blogspot.com) *(যদি থাকে)*
+- 🌍 Website: [soiadmahedi.blogspot.com](https://soiadmahedi.blogspot.com) 
 - 💬 Facebook: [facebook.com/soiadmahedi](https://facebook.com/soiadmahedi)
-- 📺 YouTube: [YouTube Channel](https://youtube.com/@soiadmahedi) *(যদি থাকে)*
+- 📺 YouTube: [YouTube Channel](https://youtube.com/@soiadmahedi) 
 - 📧 Email: contact@soiadmahedi.com
 
 ---
