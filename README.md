@@ -59,9 +59,8 @@
 - 🐦 Twitter (X): [twitter.com/soiadmahedi](https://twitter.com/soiadmahedi)  
 - 🎵 TikTok: [tiktok.com/@soiadmahediofficial](https://tiktok.com/@soiadmahediofficial)  
 - 📧 Email:  
-  - contactsoiadmahedi@gmail.com  
-  - mahedisbusiness@gmail.com  
-  - contact@soiadmahedi.com  
+  - contactsoiadmahedi@gmail.com
+  - mahedisbusiness@gmail.com
 
 ---
 
