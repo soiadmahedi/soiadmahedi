@@ -37,23 +37,13 @@
 ### 🕌 সালাফী সমাহার – ইসলামিক কনটেন্ট অ্যাপ  
 > কুরআন, হাদিস, সালাফি স্কলারদের বক্তব্য ও ক্যালেন্ডার  
 📌 **Client Project:** Developed for Imran Sakin (Islamic Android App)  
-🔗 [Download Link](https://salafisomaharsomogro.apk.com)
-
-### 📥 Multi-thread Downloader with Resume Support  
-> Pause, Resume, Progress Listener, Multi-task Support
-
-### 🧠 EasyDB – SQLite Without Raw Queries  
-> Insert, Read, Update, Search – All without SQL query syntax
-
-### 📅 SoiadMahediCalendar  
-> বাংলা, ইংরেজি ও হিজরি ক্যালেন্ডার সাপোর্ট সহ Date & Time Utilities
+🔗 [Download Link](https://salafi.muazbinimran.top)
 
 ---
 
 ## 🌐 সোশ্যাল লিংক ও যোগাযোগ:
 
-- 🌍 Blogspot: [soiadmahedi.blogspot.com](https://soiadmahedi.blogspot.com)  
-- 🧾 Portfolio: [soiadmahedi.ct.ws](https://soiadmahedi.ct.ws)  
+- 🌍 WebSite: [soiadmahedi.top](https://soiadmahedi.top)  
 - 💬 Facebook: [facebook.com/soiadmahediofficial](https://facebook.com/soiadmahediofficial)  
 - 📸 Instagram: [instagram.com/soiadmahedi](https://instagram.com/soiadmahedi)  
 - 🐦 Twitter (X): [twitter.com/soiadmahedi](https://twitter.com/soiadmahedi)  
