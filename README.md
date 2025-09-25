@@ -1,6 +1,6 @@
 # 👋 আসসালামু আলাইকুম! আমি সৈয়দ মেহেদী (Soiad Mahedi)
 
-### 🎯 Android App & Web Full Stack Developer | 🕌 Islamic App Creator | 🎦 Digital Content Creator
+### 🎯 Android App & Web Full Stack Developer | 🕌 Islamic App Creator | 🎦 Digital Content Creator 
 
 ---
 
