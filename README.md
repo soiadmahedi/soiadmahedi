@@ -1,59 +1,56 @@
-# 👋 আসসালামু আলাইকুম! আমি সৈয়দ মেহেদী (Soiad Mahedi)
+# 👋 Hello, I'm Soiad Mahedi (সৈয়দ মেহেদী)
 
-### 🎯 Android App & Web Full Stack Developer | 🕌 Islamic App Creator | 🎦 Digital Content Creator 
+I'm a Full-Stack Developer and Digital Content Creator from Bangladesh. My core expertise lies in native Android development with **Java**, and I'm also proficient in web technologies like **HTML, CSS, JavaScript, PHP,** and **SQL**. I am currently expanding my skills into cross-platform development with **Flutter**.
 
----
-
-## 🧠 আমি যেসব প্রোগ্রামিং ল্যাংগুয়েজ ও টেকনোলজি পারি:
-- 🟦 Java (Primary for Android Development)
-- 🟨 XML (Android UI Design)
-- 🔥 Google Firebase
-- 🗃️ SQL and SQLite (Database & Local Storage)
-- 🐘 PHP (Basic Backend Integration)
-- 🐍 Dart (Flutter Learning Phase) – Learned 10%
-- 🌐 HTML, CSS (Web Development) – Learned 60%
-- ☁️ cPanel Hosting Management
-- 🧪 Git & Version Control
+<p align="left">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="40"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40"/>
+  <img src="https://img.icons8.com/color/48/php.png" alt="PHP" width="40"/>
+  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" width="40"/>
+  <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" width="40"/>
+</p>
 
 ---
 
-## 💼 আমি যেসব সেক্টরে কাজ করেছি:
-- 📱 Android App Full Stack Development (Java-based)
-- 🌐 Standard Website Development (Native/Flutter/WebView-based)
-- 🗂️ SQLite Wrapper System without Raw Query
-- 🔐 Firebase-based VIP/Admin Access System
-- 📤 JSON Upload System from Android to PHP Server
-- 🧩 Widget Development for Android Homescreen or Any Page
-- 🎨 Material Design & UI/UX Design (XML-based)
-- 📅 Multi-calendar Apps & Websites (Gregorian, Bangla, Hijri)
+## 🔧 Technologies & Skills
+
+-   📱 **Android (Java):** Strong expertise in building full-stack native Android apps, including UI/UX, database management, and API integration.
+-   🌐 **Web Development:** Proficient in creating responsive web front-ends with `HTML` and `CSS`.
+-   🐘 **Backend:** Basic backend integration and server-side logic using `PHP`.
+-   💾 **Databases:** Skilled in `SQL` and `SQLite` for complex queries, database optimization, and local storage management.
+-   ☁️ **Hosting:** Experienced with `cPanel` for web hosting and server management.
+-   🧪 **Version Control:** Proficient in using `Git` for version control and collaborative development.
+-   🎯 **Currently Learning:** Cross-platform development with `Dart (Flutter)`.
 
 ---
 
-## 📱 আমার কিছু উল্লেখযোগ্য প্রজেক্ট:
-### 🔊 SUic Player – A Simple, User-Friendly Video and Music Player  
-> 🎵 Lightweight and Small Ads
-🔗 [APKPure](https://apkpure.com/p/com.soiadmahedi.suicTh) | [Samsung Galaxy Store](https://galaxystore.samsung.com/detail/com.soiadmahedi.suicTh) | [Amazon AppStore](https://www.amazon.com/gp/product/B0BPQ8XNR4)
+## 🚀 My Projects
 
-### 🕌 সালাফী সমাহার – ইসলামিক কনটেন্ট অ্যাপ  
-> কুরআন, হাদিস, সালাফি স্কলারদের বক্তব্য ও ক্যালেন্ডার  
-📌 **Client Project:** Developed for Imran Sakin (Islamic Android App)  
-🔗 [Download Link](https://salafi.muazbinimran.top)
+### 🔊 SUic Player – A Simple, User-Friendly Video and Music Player
+> 🎵 A lightweight media player with minimal ads, focused on a clean user experience.  
+> 🔗 **Available on:** [APKPure](https://apkpure.com/p/com.soiadmahedi.suicTh) | [Samsung Galaxy Store](https://galaxystore.samsung.com/detail/com.soiadmahedi.suicTh) | [Amazon AppStore](https://www.amazon.com/gp/product/B0BPQ8XNR4)
 
----
-
-## 🌐 সোশ্যাল লিংক ও যোগাযোগ:
-
-- 🌍 WebSite: [soiadmahedi.top](https://soiadmahedi.top)  
-- 💬 Facebook: [facebook.com/soiadmahediofficial](https://facebook.com/soiadmahediofficial)  
-- 📸 Instagram: [instagram.com/soiadmahedi](https://instagram.com/soiadmahedi)  
-- 🐦 Twitter (X): [twitter.com/soiadmahedi](https://twitter.com/soiadmahedi)  
-- 🎵 TikTok: [tiktok.com/@soiadmahediofficial](https://tiktok.com/@soiadmahediofficial)  
-- 📧 Email:  
-  - contactsoiadmahedi@gmail.com
-  - mahedisbusiness@gmail.com
+### 🕌 সালাফী – ইসলামিক কনটেন্ট অ্যাপ
+> কুরআন, হাদিস, সালাফি স্কলারদের বক্তব্য ও ক্যালেন্ডার (An Islamic content app with Quran, Hadith, lectures from Salafi scholars, and a calendar).  
+> 📌 **Role:** Developed as a client project for Muaz Bin Imran.  
+> 🔗 **Visit App Website:** [salafi.muazbinimran.top](https://salafi.muazbinimran.top) 
 
 ---
 
-## 📺 আমার ইউটিউব চ্যানেল:
-- 🎥 ইসলামিক এবং ফ্যাক্টস ভিডিও: [YouTube Channel](https://youtube.com/@soiadmahedi)  
-- ⚙️ টেক & কোডিং ভিডিও: [Soiad Mahedi Tech](https://youtube.com/@soiadmaheditech)
+## 📺 My YouTube Channels
+
+-   🎥 **Soiad Mahedi:** [Islamic & Factual Videos](https://youtube.com/@soiadmahedi)
+-   ⚙️ **Soiad Mahedi Tech:** [Tech & Coding Videos](https://youtube.com/@soiadmaheditech)
+
+---
+
+## 📫 Get in Touch
+
+-   🌍 **Website:** [soiadmahedi.top](https://soiadmahedi.top)
+-   💬 **Facebook:** [soiadmahediofficial](https://facebook.com/soiadmahediofficial)
+-   📸 **Instagram:** [@soiadmahedi](https://instagram.com/soiadmahedi)
+-   🐦 **Twitter (X):** [@soiadmahedi](https://twitter.com/soiadmahedi)
+-   🎵 **TikTok:** [@soiadmahediofficial](https://tiktok.com/@soiadmahediofficial)
+-   📧 **Email:** `contactsoiadmahedi@gmail.com` | `mahedisbusiness@gmail.com`
