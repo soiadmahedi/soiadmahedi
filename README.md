@@ -32,11 +32,6 @@ I'm a Full-Stack Developer and Digital Content Creator from Bangladesh. My core 
 > 🎵 A lightweight media player with minimal ads, focused on a clean user experience.  
 > 🔗 **Available on:** [APKPure](https://apkpure.com/p/com.soiadmahedi.suicTh) | [Samsung Galaxy Store](https://galaxystore.samsung.com/detail/com.soiadmahedi.suicTh) | [Amazon AppStore](https://www.amazon.com/gp/product/B0BPQ8XNR4)
 
-### 🕌 সালাফী – ইসলামিক কনটেন্ট অ্যাপ
-> কুরআন, হাদিস, সালাফি স্কলারদের বক্তব্য ও ক্যালেন্ডার (An Islamic content app with Quran, Hadith, lectures from Salafi scholars, and a calendar).  
-> 📌 **Role:** Developed as a client project for Muaz Bin Imran.  
-> 🔗 **Visit App Website:** [salafi.muazbinimran.top](https://salafi.muazbinimran.top) 
-
 ---
 
 ## 📺 My YouTube Channels
